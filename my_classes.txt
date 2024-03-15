@@ -1,0 +1,7 @@
+[101] C++ [credit 3 - A+~F]
+[110] Reading [credit 1 - P/F]
+[201] EngineeringBasic [credit 3 - A+~F]
+[205] Java [credit 3 - A+~F]
+[208] Project [credit 3 - P/F]
+[204] ProgramingStudio [credit 2 - A+~F]
+Total credits: 15
